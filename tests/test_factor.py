@@ -1,4 +1,4 @@
-from experimentflow.factor import FactorType, Factor
+from experimentflow import Factor, FactorType
 
 
 # Test FactorType
